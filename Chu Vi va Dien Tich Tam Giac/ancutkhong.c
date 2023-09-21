@@ -1,3 +1,7 @@
+//
+// Creat by Anh Trinh 21/9/23
+//
+
 #include<stdio.h>
 float cv(float a, float b, float c);
 float dt( float a, float b, float c);
