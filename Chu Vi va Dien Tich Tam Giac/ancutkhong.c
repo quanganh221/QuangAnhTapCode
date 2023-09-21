@@ -16,9 +16,9 @@ void main() {
 	scanf("%f", &num3);
 	
 	float result1 = cv(num1, num2, num3);
-	printf("%f", result1);
+	printf("%.2f", result1);
 	float result2 = dt(num1, num2, num3);
-	printf("%f", result2);
+	printf("%.2f", result2);
 }
 float cv(float a, float b, float c){
 	printf("\nChu Vi Hinh Tam Giac La: ");
