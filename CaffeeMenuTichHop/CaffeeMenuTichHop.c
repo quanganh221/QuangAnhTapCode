@@ -1,7 +1,6 @@
 //
-// Creat by Anh Trinh 20/9/23
+// Creat by Dang Thi Kim and Code by Anh Trinh 20/9/23
 //
-
 
 #include<stdio.h>
 
